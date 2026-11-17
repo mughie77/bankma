@@ -1,0 +1,9 @@
+{
+  "version": "1.0.6",
+  "build_number": 7,
+  "release_date": "2026-11-17",
+  "download_url": "https://example.com/bankma/bankma_update.zip",
+  "changelog": "- Fitur Auto-Updater Online terintegrasi\n- Pemisahan fisik dan keamanan database di AppData\n- Tombol Backup dan Restore Database 1-Klik\n- Format 7 dokumen akad kredit resmi terverifikasi\n- Fitur pembulatan pecahan nominal kredit BPR",
+  "min_supported_version": "1.0.0",
+  "is_critical": false
+}
