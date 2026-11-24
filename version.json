@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
-  "build_number": 7,
-  "release_date": "2026-11-18",
+  "version": "1.0.12",
+  "build_number": 13,
+  "release_date": "2026-11-24",
   "download_url": "https://github.com/mughie77/bankma/releases/latest/download/bankma_update.zip",
-  "changelog": "- Auto-updater terintegrasi dengan GitHub: https://github.com/mughie77/bankma\n- Pemisahan fisik dan keamanan database di AppData\n- Fitur Cadangkan (Backup) dan Pulihkan (Restore) Database 1-Klik\n- Format 7 dokumen akad kredit resmi terverifikasi\n- Fitur pembulatan pecahan kredit BPR",
+  "changelog": "- Fitur Pemisahan Kantor Pusat & Kantor Cabang pada Login dan Pengaturan Profil Bank:\n  * Pilihan Login Kantor Pusat vs Kantor Cabang langsung pada halaman login\n  * Pada Pengaturan Profil Bank: jika memilih Pusat hanya menampilkan Nama & Jabatan Direktur; jika memilih Cabang menampilkan Nama Kepala Cabang, Jabatan, Alamat Kepala Cabang, No. KTP, dan Tanggal Surat Kuasa dari Pusat\n  * Penyesuaian otomatis narasi pihak bank pada Perjanjian Kredit (PK) untuk Kantor Cabang dengan klausul Surat Kuasa dibawah tangan dari Direksi Pusat",
   "min_supported_version": "1.0.0",
   "is_critical": false
 }
